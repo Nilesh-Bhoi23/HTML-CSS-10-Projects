@@ -3,3 +3,4 @@
 
 2) <b>Project 2 - Job Application Form</b>
 3) <b>Project 3 - PARALLAX WEBSITE </b>
+4) <b>Project 4 - Developer | Landing Page</b>
