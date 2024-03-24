@@ -5,3 +5,4 @@
 3) <b>Project 3 - PARALLAX WEBSITE </b>
 4) <b>Project 4 - Developer | Landing Page</b>
 5) <b>Project 5 - Restaurant Website</b>
+6) <b>Project 6 - MyTunes Website </b>
