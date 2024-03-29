@@ -6,4 +6,6 @@
 4) <b>Project 4 - Developer | Landing Page</b>
 5) <b>Project 5 - Restaurant Website</b>
 6) <b>Project 6 - MyTunes Website </b>
-7) <b>Project 7 - Youtube Clone
+7) <b>Project 7 - Youtube Clone </b>
+8) <b>Project 8 - JavaScript Documentation </b> 
+
