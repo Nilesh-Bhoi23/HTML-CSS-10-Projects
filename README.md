@@ -9,4 +9,4 @@
 7) <b>Project 7 - Youtube Clone </b>
 8) <b>Project 8 - JavaScript Documentation </b> 
 9) <b>Project 9 - Blog Website</b>
-10) Portfolio Website
+10) <b>Project 10 - Portfolio Website </b>
