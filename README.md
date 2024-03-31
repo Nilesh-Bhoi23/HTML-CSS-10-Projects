@@ -8,4 +8,5 @@
 6) <b>Project 6 - MyTunes Website </b>
 7) <b>Project 7 - Youtube Clone </b>
 8) <b>Project 8 - JavaScript Documentation </b> 
-9) <b>Project 9 - Blog Website</b> 
+9) <b>Project 9 - Blog Website</b>
+10) 
